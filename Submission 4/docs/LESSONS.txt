@@ -1,0 +1,14 @@
+1 a) Positives of the group:
+ 	-Willingness to work together anytime of the day.
+	-Willingness to contribute to tasks which aren’t included in their role in the team.
+
+
+1 b) Negatives of the group:
+	-There was only one experienced coder; others were doing it for the first time.
+	-Not all people in the group were in the same branch, so the work collided with other projects.
+	-No one knew much about making the GUI of the Java application.
+
+1 c) What would you do differently next time?
+	-Start working on the GUI part of the application from the beginning.
+	-Start code development on an earlier stage.
+	-Assign more specific tasks to people.
